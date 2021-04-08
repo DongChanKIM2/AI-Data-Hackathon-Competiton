@@ -3,7 +3,7 @@ Agricultural Video AI Data Utilization Idea Hackathon
 
 ![AUR license](https://img.shields.io/aur/license/android-studio)
 
-2021 AI Hackathon Competition
+2021 AI Hackathon Competition 최우수상
 
 
 
@@ -79,13 +79,19 @@ $ cd AI-Data-Hackathon-Competiton
 
 ![image-20210408171656530](README.assets/image-20210408171656530.png)
 
-
+![image-20210408172902704](README.assets/image-20210408172902704.png)
 
 
 
 ## Feedback
 
+This is the first time to challenge a AI Competition 
 
+During this project, I've learned that there are so many techniques of analysis and ways of optimization
+
+I should keep study steadily...
+
+Thanks to 형규 and 은상
 
 
 
