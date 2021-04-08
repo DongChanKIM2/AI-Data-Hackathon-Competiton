@@ -55,13 +55,43 @@ confirm the zip extracted
 
 ### Environment
 
+- Colab(cause it provides GPU)
+- Google Drive(ZIP file)
+
 ### Installation
 
+```
+$ pip install tensorflow
+```
+
+clone Repository
+
+```
+$ mkdir project
+$ cd project
+$ git clone https://github.com/DongChanKIM2/AI-Data-Hackathon-Competiton.git
+$ cd AI-Data-Hackathon-Competiton
+```
+
 ### Results
+
+![image-20210408171646203](README.assets/image-20210408171646203.png)
+
+![image-20210408171656530](README.assets/image-20210408171656530.png)
 
 
 
 
 
 ## Feedback
+
+
+
+
+
+## License
+
+----
+Copyright © 2021 [Chan](https://github.com/DongChanKIM2)
+APACHE
 
